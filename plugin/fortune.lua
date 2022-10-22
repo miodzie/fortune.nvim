@@ -1,0 +1,1 @@
+-- print "plugin dir load fortuned"
